@@ -1,5 +1,4 @@
-import { image } from "faker";
-import React, { Component } from "react";
+import React from "react";
 import ImageCard from "./imageCard";
 import './imageList.css';
 
