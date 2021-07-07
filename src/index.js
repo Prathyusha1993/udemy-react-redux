@@ -4,11 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import App1 from './seasonsComponents/App1';
+import App2 from './picsWithFormsndEvents/App2'
 import "semantic-ui-css/semantic.min.css";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App1 />
+    <App2 />
   </React.StrictMode>,
   document.getElementById('root')
 );
